@@ -68,3 +68,9 @@ checkpoints/
 # 🚀 Extra safety
 # ======================
 *.csv
+# BERT models
+*.safetensors
+*.bin
+
+news-classifier-bert/model/checkpoint-1250/
+news-classifier-bert/model/news_classifier/
