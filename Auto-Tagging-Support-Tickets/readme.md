@@ -125,9 +125,3 @@ pip install -r requirements.txt
 **Areeba Sardar**
 ---
 
-## ⭐ Acknowledgements
-
-* Hugging Face Transformers
-* Facebook AI Research
-* Scikit-Learn
-* Open Source AI Community
