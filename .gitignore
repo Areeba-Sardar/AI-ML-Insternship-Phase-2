@@ -74,3 +74,6 @@ checkpoints/
 
 news-classifier-bert/model/checkpoint-1250/
 news-classifier-bert/model/news_classifier/
+
+# RAG Vector Database
+rag-chatbot/vectorstore/

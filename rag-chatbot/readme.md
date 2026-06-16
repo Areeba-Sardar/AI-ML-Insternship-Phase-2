@@ -93,15 +93,13 @@ Machine learning is a subset of Artificial Intelligence.
 
 ## 📸 Screenshots
 
-### Data Preview
+### Dataset Preview
 
-![alt text](screenshots/preview.png)
+![Dataset Preview](screenshots/preview.png)
 
-### User Query & Response
+### Chatbot Response Example
 
-![alt text](screenshots/response.png)
-
----
+![Chatbot Response Example](screenshots/response.png)
 
 ## 📊 Results
 
