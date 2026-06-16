@@ -1,0 +1,3 @@
+Method,Description
+Zero Shot,Classification without examples
+Few Shot,Classification using examples

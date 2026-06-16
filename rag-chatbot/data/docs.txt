@@ -1,0 +1,13 @@
+Machine learning is a subset of Artificial Intelligence.
+
+Deep learning uses neural networks for learning patterns.
+
+Python is widely used in AI, ML, and data science.
+
+LangChain is used to build LLM-based applications.
+
+FAISS is a vector database for similarity search.
+
+RAG combines retrieval and generation for better AI responses.
+
+Chatbots can use memory to remember previous conversations.
