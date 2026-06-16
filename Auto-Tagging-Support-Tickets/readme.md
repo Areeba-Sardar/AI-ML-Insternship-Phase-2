@@ -75,11 +75,9 @@ Task-5-Auto-Tagging-Support-Tickets
 │
 ├── screenshots
 │   ├── dataset_preview.png
-│   ├── zero_shot_output.png
+│   ├── shots_output.png
 │   ├── top3_tags_output.png
-│   ├── few_shot_prompt.png
-│   └── comparison_output.png
-│
+│   
 ├── ticket_classifier.py
 ├── few_shot_classifier.py
 ├── compare_models.py
@@ -112,7 +110,7 @@ pip install -r requirements.txt
 
 ![Dataset Preview](screenshots/dataset_preview.png)
 
-### Zero-Shot Classification Output
+### Shots Classification Output
 
 ![Output](screenshots/output_1.png)
 
