@@ -114,10 +114,11 @@ Add the following screenshots in the `screenshots/` folder:
 
 * Dataset generation output
 
-![alt text](<../screenshots/Dataset generation.png>)
+![Dataset](screenshots/Dataset_generation.png)
+
 * Evaluation results
 
-![alt text](<../screenshots/Evaluation results.png>)
+![Results](screenshots/Evaluation_results.png)
 
 ---
 
