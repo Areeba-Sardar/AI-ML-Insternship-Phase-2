@@ -1,0 +1,70 @@
+# ======================
+# 🐍 Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+ENV/
+ragenv/
+.venv/
+
+# ======================
+# 📊 Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# 📦 Models & Large Files
+# ======================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pth
+*.pt
+
+# ======================
+# 📁 Data Files (optional large datasets)
+# ======================
+data/
+datasets/
+
+# ======================
+# 🧠 Logs & Outputs
+# ======================
+logs/
+outputs/
+*.log
+
+# ======================
+# 🖥 Streamlit
+# ======================
+.streamlit/
+
+# ======================
+# 🪟 System files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# 🧪 IDEs
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# 🔥 ML checkpoints / cache
+# ======================
+models/
+checkpoints/
+
+# ======================
+# 🚀 Extra safety
+# ======================
+*.csv
