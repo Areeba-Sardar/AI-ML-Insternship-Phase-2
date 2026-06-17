@@ -118,5 +118,3 @@ Follow the instructions provided in each project's README file.
 AI / Machine Learning Enthusiast | Python Developer | NLP & Generative AI
 
 ---
-
-⭐ If you found these projects useful, consider giving the repository a star.
